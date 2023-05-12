@@ -1,0 +1,13 @@
+ROM:
+- Merged r43 (aka May SPL)
+- OpenDelta: Never fire multiple notifications in a row
+- OpenDelta: Make sure we only notify for a new update twice a day per boot
+- Launcher3: Dropped blur settings
+- Launcher3: Fixed some rare crash
+- Fixup lockscreen settings crash
+- Some other minor changes
+- Mark recovery as YAAP (strings only)
+
+Device:
+- Initial official build
+- Unified build for OnePlus 8/8 Pro/8T/9R
